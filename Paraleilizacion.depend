@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1549310005 source:d:\documentos\utad\programacion avanzada\leila\paraleilizacion\main.cpp
+	<iostream>
+	<ctime>
+
